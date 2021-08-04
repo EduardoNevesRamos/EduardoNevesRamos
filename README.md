@@ -1,8 +1,11 @@
 ## Olá! Eu sou o Eduardo Neves Ramos
 
-. 📳Trabalho como estagiario na Com4 Data Center
-. 📕Estudando Java Script, Html e Css
+. 📳Trabalho como estagiario na Com4 Data Center 
+<br>
+. 📕Estudando atualmente Java Script, Html e Css
+<br>
 . 🧢Pronome: Ele/Dele
+<br>
 
 <div>
   <a href="https://github.com/Eduardo_Neves_Ramos">
