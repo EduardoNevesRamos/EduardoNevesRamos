@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Eduardo Neves Ramos
 
-. 📳Trabalho como estagiario na Com4 Data Center 
+. 📳Trabalho como desenvolvedor junior na Quero 2 pay. 
 <br>
-. 📕Estudando atualmente Java Script, Html e Css
+. 📕Estudando atualmente Kotlin e golang, js, html e css
 <br>
 . 🧢Pronome: Ele/Dele
 <br>
