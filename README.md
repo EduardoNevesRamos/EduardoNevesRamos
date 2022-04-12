@@ -2,7 +2,7 @@
 
 . 📳Trabalho como desenvolvedor junior na Quero 2 pay. 
 <br>
-. 📕Estudando atualmente Kotlin e golang, js, html e css
+. 📕Estudando atualmente Kotlin e golang
 <br>
 . 🧢Pronome: Ele/Dele
 <br>
