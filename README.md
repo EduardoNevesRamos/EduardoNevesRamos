@@ -18,6 +18,7 @@
   <img align="center" alt="dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dudu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="dudu-golang" height="30" width="40" src="https://o.remove.bg/downloads/4ca7277f-c02d-4873-84e5-9f11859e2fb7/Golang-removebg-preview.png">
   <hr>
 
     
